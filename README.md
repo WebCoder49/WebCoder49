@@ -1,6 +1,7 @@
 # Hi there 👋 from WebCoder49
 
-![Let's Code!](YouTube Cover.png)
+![Let's Code!](https://raw.githubusercontent.com/WebCoder49/WebCoder49/master/YouTube%20Cover.png)
+*Thank you to pixabay.com for the image*
 
 I enjoy **coding websites** with HTML, CSS, JavaScript and PHP! I also like creating videogames like [**Earth Explorer**](https://earthexplorer.og49.repl.co/), a platformer I created with some friends as graphics developers. I know **quite a lot of HTML, CSS and JavaScript** and **some PHP, Python and Java**, so if you want help with any of these, questions are welcome! **Please note that I may not be able to respond immediately.**
 
