@@ -9,6 +9,7 @@ I enjoy **coding websites** with HTML, CSS, JavaScript and PHP! I also like crea
 
 ## How to reach me: 
 
+- [**My Blog (webcoder49.wordpress.com**](https://webcoder49.wordpress.com)
 - [**repl.it (@OG49)**](https://repl.it/@OG49)
 - [**Github (You're already here!)**](https://github.com/WebCoder49)
 - [**YouTube (WebCoder49)**](https://www.youtube.com/channel/UCRGa9FlO3g-InDThc9Qk6Lw)
