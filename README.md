@@ -1,5 +1,10 @@
 # Hi there 👋 from WebCoder49
 
+> You can only let others
+> stand on the shoulders
+> of giants if your code
+> is **open-source**.
+
 ![Let's Code!](https://raw.githubusercontent.com/WebCoder49/WebCoder49/master/YouTube%20Cover.png)
 *Thank you to pixabay.com for the image*
 
