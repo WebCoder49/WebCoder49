@@ -5,7 +5,7 @@
 > of giants if your code
 > is **open-source**.
 
-![Project Euler](https://projecteuler.net/profile/OG49.png)
+![Project Euler](https://projecteuler.net/profile/OG49.pnG)
 
 ![Let's Code!](https://raw.githubusercontent.com/WebCoder49/WebCoder49/master/YouTube%20Cover.png)
 *Thank you to pixabay.com for the image*
