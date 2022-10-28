@@ -1,4 +1,8 @@
 # 👋 Hello!
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WebCoder49&hide=html,css&layout=compact&theme=dark&card_width=500) 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=WebCoder49&count_private=true&layout=compact&theme=dark&card_width=500)
+
 ## 🔗 [My Portfolio](https://webcoder49.github.io/) | [⠕ Replit](https://replit.com/@OG49) | [⛏️ CurseForge](https://www.curseforge.com/members/webcoder49/projects) | [🎮 Itch.io](https://webcoder49.itch.io)
 > Do you have an **idea** for future projects, **improvements** to current ones, or have you found a **bug**? [Contact Me](https://webcoder49.wordpress.com/contact-me/)
 
