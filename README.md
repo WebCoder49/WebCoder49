@@ -1,24 +1,12 @@
-# Hi there 👋 from WebCoder49
+# 👋 Hello!
+## 🔗 [My Portfolio](https://webcoder49.github.io/) | [⠕ Replit](https://replit.com/@OG49) | [⛏️ CurseForge](https://www.curseforge.com/members/webcoder49/projects) | [🎮 Itch.io](https://webcoder49.itch.io)
+> Do you have an **idea** for future projects, **improvements** to current ones, or have you found a **bug**? [Contact Me](https://webcoder49.wordpress.com/contact-me/)
 
-> You can only let others
-> stand on the shoulders
-> of giants if your code
-> is **open-source**.
+I'm a keen programmer, and I enjoy coding **videogames**, **web-apps**, **maths-based** projects and anything else that includes **problem solving**, as well as helping others through **open-source** software!
 
-![Project Euler](https://projecteuler.net/profile/OG49.pNg)
+## Latest Project - [Dolphins of the Deep](https://www.curseforge.com/minecraft/mc-mods/dolphinsofthedeep)
+### ⬆️v2.0 In Development
+> Befriend and ride a variety of dolphin species in Minecraft, gaining gifts to level up! Fundraising for WDC.
 
-![Let's Code!](https://raw.githubusercontent.com/WebCoder49/WebCoder49/master/YouTube%20Cover.png)
-*Thank you to pixabay.com for the image*
-
-I enjoy **coding websites** with HTML, CSS, JavaScript and PHP! I also like creating videogames like [**Earth Explorer**](https://earthexplorer.og49.repl.co/), a platformer I created with some friends as graphics developers. I know **quite a lot of HTML, CSS and JavaScript** and **some PHP, Python and Java**, so if you want help with any of these, questions are welcome! **Please note that I may not be able to respond immediately.**
-
-**Fun Fact:** *I also like the idea of Turing machines and have created a simulator [**here!**](https://turingtape.og49.repl.co/)*
-
-## How to reach me: 
-
-- [**My Blog (webcoder49.wordpress.com**](https://webcoder49.wordpress.com)
-- [**repl.it (@OG49)**](https://repl.it/@OG49)
-- [**Github (You're already here!)**](https://github.com/WebCoder49)
-- [**YouTube (WebCoder49)**](https://www.youtube.com/channel/UCRGa9FlO3g-InDThc9Qk6Lw)
-
-**Have fun learning web development at my YouTube channel, and have fun looking at my repos (and repls on repl.it)!**
+[Read more
+![Preview](https://raw.githubusercontent.com/WebCoder49/dolphinsofthedeep/main/src/main/resources/assets/dolphinsofthedeep/large_icon.png)](https://webcoder49.github.io/#dolphinsofthedeep)
