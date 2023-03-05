@@ -12,9 +12,9 @@ I'm a keen programmer, and I enjoy coding **videogames**, **web-apps**, **maths-
 
 ---
 
-## Latest Project - [Dolphins of the Deep](https://www.curseforge.com/minecraft/mc-mods/dolphinsofthedeep)
-### ⬆️v2.0 In Development
-> Befriend and ride a variety of dolphin species in Minecraft, gaining gifts to level up! Fundraising for WDC.
+## Latest Project - [Archipelago](https://archipelago.og49.repl.co/)
+### 💻 AI Mode with 4 difficulty levels / 🌐 Online Multiplayer
+> Play against friends online and 4 levels of AI in this puzzle game, in your browser or installed offline!
 
 [Read more
-![Preview](https://raw.githubusercontent.com/WebCoder49/dolphinsofthedeep/main/src/main/resources/assets/dolphinsofthedeep/large_icon.png)](https://webcoder49.github.io/#dolphinsofthedeep)
+![Preview](https://storage.googleapis.com/replit/images/1677917968497_cce4291d73fff30535cf6552acd0704d.png)](https://webcoder49.github.io/#archipelago)
