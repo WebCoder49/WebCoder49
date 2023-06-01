@@ -2,7 +2,7 @@
 
 ---
 
-# 🔗 [My Portfolio](https://webcoder49.github.io/) <sub><sup>| [⠕ Replit](https://replit.com/@OG49) | [⛏️ CurseForge](https://www.curseforge.com/members/webcoder49/projects) | [🎮 Itch.io](https://webcoder49.itch.io) | [🔼 Stack Overflow](https://stackoverflow.com/users/21785620/webcoder49)</sup></sub>
+# 🔗 [My Portfolio](https://webcoder49.github.io/) <sub><sup>| [⠕ Replit](https://replit.com/@OG49) | [⛏️ CurseForge](https://www.curseforge.com/members/webcoder49/projects) | [🎮 Itch.io](https://webcoder49.itch.io) | [🔼 Stack Overflow](https://stackoverflow.com/users/21785620/webcoder49) | [📦 NPM](https://www.npmjs.com/~webcoder49) </sup></sub>
 > Do you have an **idea** for future projects, **improvements** to current ones, or have you found a **bug**? Please [Contact Me](https://webcoder49.wordpress.com/contact-me/)
 
 I'm a keen programmer, and I enjoy coding **videogames**, **web-apps**, **maths-based** projects and anything else that includes **problem solving**, as well as helping others through **open-source** software!
