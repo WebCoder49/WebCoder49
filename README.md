@@ -3,7 +3,7 @@
 ---
 
 # 🔗 [Website](https://ogeer.org/)
-> Do you have an **idea** for future projects, **improvements** to current ones, or have you found a **bug**? Please [Contact Me](https://webcoder49.wordpress.com/contact-me/)
+> Do you have an **idea** for future projects, **improvements** to current ones, or have you found a **bug**? Please [Contact Me](https://ogeer.org/#contact)
 
 I'm a keen programmer, and I enjoy coding **videogames**, **web-apps**, **maths-based** projects and anything else that includes **problem solving**, as well as helping others through **open-source** software!
 
